@@ -1,3 +1,5 @@
 # elhirafi
 
-developers kira and th3hpbt
+###developers 
+- kira
+- th3hpbt
