@@ -4,6 +4,6 @@
         <title>HW</title>
     </head>
     <body>
-        <h1>hello world {{ $kira }}</h1>
+        <h1>hello world {{ $kira }} !</h1>
     </body>
 </html>
